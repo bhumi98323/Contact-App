@@ -8,3 +8,4 @@ Search and Filter: Quickly search and filter your contacts based on various crit
 Contact Sharing: Share contacts with others via text message, email, or through popular messaging apps, facilitating easy collaboration and networking.
 Backup and Restore: Safeguard your contacts by backing up your address book to the cloud, ensuring that your valuable contact information is never lost.
 Customizable Interface: Tailor the app's interface to suit your preferences, with customizable themes, layout options, and contact display settings.
+Design that
